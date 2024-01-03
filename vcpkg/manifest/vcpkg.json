@@ -1,0 +1,9 @@
+{
+    "dependencies" : [
+        "fmt",
+        {
+            "name" : "zlib",
+            "$linkage" :"static"
+        }
+    ]
+}
